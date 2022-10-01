@@ -1,24 +1,23 @@
-#  Easybank landing page
+# Easybank landing page
+
+![](./.github/preview.png)
 
 ## Conteúdo
 - [Sobre](#sobre)
-- [Links](#link)
+- [Link](#link)
 - [Tecnologias](#tecnologias)
 - [Autor](#autor)
 
-![](./images/screenshot.png)
+## Sobre
+Esta é uma solução para o desafio da Easybank landing page no Frontend Mentor, responsivo para grande parte dos dispositivos. A Easybank é um banco digital de última geração.
 
-##  Sobre
-Esta é uma solução para o [desafio da Easybank landing page no Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN), responsivo para grande parte dos dispositivos. A Easybank é um banco digital de última geração.
-
-##  Link
+## Link
 - Site - https://landingpage-easybank.netlify.app
 
-##  Tecnologias
-- Tags semânticas do HTML5
-- Propriedades comuns do CSS
-- Flexbox
-- CSS Grid
+## Tecnologias
+- HTML
+- CSS
 
-##  Autor
-Perfil no Frontend Mentor - https://www.frontendmentor.io/profile/sanchesspoladore
+## Autor
+- Site - https://sanches-spoladore.netlify.app
+- Perfil no Frontend Mentor - https://www.frontendmentor.io/profile/sanchesspoladore
